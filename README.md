@@ -28,8 +28,9 @@ Dispuesto y entregando al 100%, plenamente a trabajar en equipo, dando lo mejor 
 <h3>Mis Proyectos:</h3>
 <h4>Mercadito</h4>
 <p align="left">e-commerce en donde los clientes pueden comprar gran variedad de productos, pueden registrarse y comprar con paypal, tienen acceso a un carrito de compras, un panel de ordenes hechas por ese cliente y otro para editar el perfil. Puede encontrar productos usados y nuevos, de diferentes tipos de marcas.</p>
-<p>En el panel de administrador puede ver todos los productos, editar y subir nuevos productos, ver todas las ordenes hechas, ver el detalle de una orden, tiene un panel en donde se ve el total de productos que hay, el numero de clientes registrados que hay, el numero de productos que no tienen stock, el numero de ordenes pagadas, entre otras cosas, un admin puede modificar un usuario para agregarlo como usuario admin</p>
-
+<p>En el panel de administrador puede ver todos los productos, editar y subir nuevos productos, ver todas las ordenes hechas, ver el detalle de una orden, tiene un panel en donde se ve el total de productos que hay, el numero de clientes registrados que hay, el numero de productos que no tienen stock, el numero de ordenes pagadas, entre otras cosas. La pagina cuenta con un administrador, que el mismo puede bloquear, eliminar usuarios y agregar productos </p>
+<p> ✔ Proyecto realizado en equipo </p>
+<a link de mi pagina></a>
 <a href="https://mercadito-pf.herokuapp.com/">Mercadito</a>
 
 
