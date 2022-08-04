@@ -1,24 +1,24 @@
-<h1 align="center">Hola 🖐, soy Maximiliano Cacciamano un placer!! 🖐</h1>
+<h1 align="center">Hola 🖐, soy Maximiliano Cacciamano un placer!! 👋👋</h1>
 <h3 align="center">Desarrollador Web Full-Stack, apasionado por la tecnología, los libros y el arte en general.</h3>
 
 
 <h3 align="left">Sobre mi:</h3>
 
-Soy un apasionado del mundo de la programacion y todo lo relacionado al mundo de la informatica y la tecnologia/>
+Soy un apasionado del mundo de la programacion y todo lo relacionado a la informatica y la tecnologia/>
 Desarrollador Web Full Stack, con los conocimientos y las habilidades para solucionar problemas en un corto tiempo. Y la capacidad de absorber conocimientos tecnicos en el menor tiempo posible <br/>
 Motivado a seguir aprendiendo tecnologías nuevas. <br/>
-Dispuesto y entregando el 100% plenamente a trabajar en equipo, dando lo mejor de mi para llegar al mejor resultado.
+Dispuesto y entregando al 100%, plenamente a trabajar en equipo, dando lo mejor de mi para llegar al mejor resultado.
 
 
- ✔👨‍💻en busca de  trabajo
+ ✔👨‍💻en busqueda de trabajo
 
- ✔🌱 Actualmente sigo especializandome en React y tecnologias que me puedan ayudar a crecer
+ ✔🌱 Actualmente sigo especializandome en React y tecnologias que me puedan ayudar a crecer en el mundov IT
 
  ✔ 📫 Contacto **developer.maxi33@gmail.com**
 
  ✔ ⚡ Datos sobre mi: tengo una obsecion con aprender siempre algo nuevo. Leo muchos libros que me ayudan a aprender y crecer dia a dia 📗📚 por eso me gusta la programacion. Considero que es un constanste aprendisaje...
 
-<p align="left"> - Mi perfil de linkedin:
+<p align="left"> - linkedin:
 <a href=https://www.linkedin.com/in/maximiliano-cacciamano-100a8620a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian-full-stack-developer" height="30" width="40" /></a>
 </p>
 
